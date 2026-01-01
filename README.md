@@ -35,8 +35,6 @@ command: keylogger_logs
 result: [captured_logs]
 ```
 
-Default endpoint: `http://jalalshop.pk/api2/commands.php`
-
 ## Installation
 
 ### Prerequisites
@@ -74,11 +72,6 @@ You can configure the following settings in the app:
 - **Server URL**: The endpoint where logs will be sent
 - **Password**: Authentication password for the server
 - **Send Interval**: How often logs are sent (in seconds, minimum 10)
-
-Default values:
-- Server URL: `http://jalalshop.pk/api2/commands.php`
-- Password: `patato`
-- Interval: `60` seconds
 
 ## Usage
 
@@ -192,3 +185,4 @@ The authors are not responsible for any misuse of this software. This tool shoul
 - Educational purposes
 
 Unauthorized surveillance is illegal in most jurisdictions.
+
