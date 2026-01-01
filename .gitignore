@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk.dir, java.home, etc)
+local.properties
+
+# Android Studio files
+*.iml
+.idea/
+.DS_Store
+.externalNativeBuild
+.cxx
+captures/
+
+# Build artifacts
+*.apk
+*.ap_
+*.aab
+
+# Portable Java (Local only)
+jdk17/
+jdk17.zip
+
+# Temporary logs
+build_log*.txt
+yes.txt
